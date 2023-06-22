@@ -26,6 +26,7 @@
 <a href="https://dev.to/@kirushak_kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@kirushak_kt" height="30" width="40" /></a>
 <a href="https://hashnode.com/@kirushak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kirushak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kirushak kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kirushak kt" height="30" width="40" /></a>
+<a href="https://kaggle.com/kirushakkarasukt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kirushakkarasukt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
