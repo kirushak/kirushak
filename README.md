@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kirushakkarasu2004@gmail.com**
 - 📝 I regularly write articles on [https://medium.com/@kirushakkarasu2004](https://medium.com/@kirushakkarasu2004)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jz-tc8sejlkxsv9MDGufdxctIjNqUFNu/view?usp=drive_link](https://drive.google.com/file/d/1jz-tc8sejlkxsv9MDGufdxctIjNqUFNu/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jz-tc8sejlkxsv9MDGufdxctIjNqUFNu/view?usp=drive_link](https://drive.google.com/file/d/1jz-tc8sejlkxsv9MDGufdxctIjNqUFNu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
